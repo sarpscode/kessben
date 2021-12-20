@@ -1,0 +1,69 @@
+.my-form{
+        padding:15px;
+         
+}
+
+.my-form.form-group{
+        padding bottom:15px;
+
+}
+
+
+
+#navbar a{
+         color:white;
+         text-decoration:none;
+         font-size:18px;
+         padding-right:20px;
+         
+         
+}
+
+#navbar{
+        background-color:black;
+}
+
+.container{
+           background-color:pink;
+           padding:15px;
+           font-size:1.5em;
+           border:5px red bold;
+           font-weight:800;
+           font-style:italic;
+           margin:20px;
+           border-radius:10px;
+           
+           
+}
+
+.container a{
+             text-decoration:none;
+             color:white;
+             
+}
+
+.container li{
+              color:white;
+              list-style:square;
+              
+}
+
+
+.my-form input[type="submit"]{
+       background:black;
+       color:white;
+       padding:10px 15px;
+       
+       padding-left:20px; 
+}
+
+}
+
+.my-image{
+          border:15px red bold;
+
+}
+
+
+
+
